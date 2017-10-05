@@ -1,0 +1,101 @@
+* {
+     box-sizing: border-box;
+}
+html {
+    font-size: 10px;
+    -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+}
+
+div {
+      display: block;
+
+}
+
+body {
+    font-size: 20px;
+    color: #535353;
+    line-height: 1.5;
+    font-family: 'Lato', sans-serif;
+    font-weight: 400;
+    background: #282828;
+}
+
+p {
+    display: block;
+    -webkit-margin-before: 1em;
+    -webkit-margin-after: 1em;
+    -webkit-margin-start: 0px;
+    -webkit-margin-end: 0px;
+    margin: 0 0 10px;
+}
+
+.container{
+    margin-right: auto;
+    margin-left: auto;
+    padding-left: 30px;
+    padding-right: 30px;
+    display: inherit;
+}
+
+.miss{
+    background: #fff;
+    padding-top: 40px;
+    padding-bottom: 50px;
+    width: auto;
+    clear: both;
+    display: block;
+}
+.header{
+  height:3.5em;
+  display: block;
+  padding: 0px;
+}
+
+.ashimg{
+  float: left;
+  height:100%;
+  width: auto;
+}
+
+.ui-header .ui-title, .ui-footer .ui-title{
+  font-size: 25px;
+  margin-bottom: 10px;
+}
+
+.about{
+    padding-top: 40px;
+    padding-bottom: 50px;
+    width: auto;
+    clear: both;
+    display: block;
+}
+
+.cnn{
+      margin-left: 70px;
+}
+.bbc{
+      margin-left: 5px;
+}
+.ted{
+      margin-left: 25px;
+}
+.link{
+    background: #fff;
+    text-align: center;
+    padding-top: 40px;
+    padding-bottom: 20px;
+    width: auto;
+    clear: both;
+    display: block;
+}
+
+.footer{
+    font-size: 14px;
+    text-align: center;
+    color: #e6e6e6;
+    background: #282828;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-bottom: 0;
+    text-shadow: none;
+    }
