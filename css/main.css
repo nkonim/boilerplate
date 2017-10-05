@@ -39,7 +39,7 @@ p {
 
 .miss{
     background: #fff;
-    padding-top: 40px;
+    padding-top: 5px;
     padding-bottom: 50px;
     width: auto;
     clear: both;
@@ -62,14 +62,26 @@ p {
   margin-bottom: 10px;
 }
 
+.pic{
+      margin-right: auto;
+    margin-left: auto;
+    padding-left: 0px;
+    padding-right: 30px;
+    display: inherit;
+}
 .about{
-    padding-top: 40px;
+    padding-top: 5px;
     padding-bottom: 50px;
     width: auto;
     clear: both;
     display: block;
 }
 
+.scene{
+    height: 25vh;
+    width: 110%;
+    padding-left: 0px;
+}
 .cnn{
       margin-left: 70px;
 }
@@ -82,7 +94,7 @@ p {
 .link{
     background: #fff;
     text-align: center;
-    padding-top: 40px;
+    padding-top: 5px;
     padding-bottom: 20px;
     width: auto;
     clear: both;
