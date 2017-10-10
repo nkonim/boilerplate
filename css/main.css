@@ -63,7 +63,7 @@ p {
 }
 
 .pic{
-      margin-right: auto;
+    margin-right: auto;
     margin-left: auto;
     padding-left: 0px;
     padding-right: 30px;
@@ -76,7 +76,9 @@ p {
     clear: both;
     display: block;
 }
-
+.side-nav {
+width: 180px;
+}
 .scene{
     height: 25vh;
     width: 110%;
@@ -111,3 +113,7 @@ p {
     margin-bottom: 0;
     text-shadow: none;
     }
+
+.ui-header > .ui-btn, .ui-footer > .ui-btn {
+    margin-left: 80vw;
+}
